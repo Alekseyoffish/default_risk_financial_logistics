@@ -1,7 +1,0 @@
-model,roc_auc,pr_auc,brier
-rnn,0.91765,0.13182,0.052986
-gru_vanilla,0.91447,0.08091,0.074533
-Logistic Regression,0.90167,0.0232,0.13638
-Random Forest,0.91564,0.12813,0.047116
-Gradient Boosting,0.85873,0.1139,0.001724
-Static NN,0.90745,0.05832,0.098459
